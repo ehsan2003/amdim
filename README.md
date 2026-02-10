@@ -1,3 +1,4 @@
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 # amdim
 
 `amdim` is a low-level hardware control utility for AMD GPUs on Linux. It interacts directly with the GPU display controller registers via the User Mode Register (`umr`) tool to provide display adjustments that often bypass software limitations and OS-level brightness curves.
